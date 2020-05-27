@@ -4,12 +4,13 @@
  * @Autor: 马璇玲
  * @Date: 2020-03-26 11:25:58
  * @LastEditors: 马璇玲
- * @LastEditTime: 2020-05-22 15:32:03
+ * @LastEditTime: 2020-05-27 16:32:53
  */ 
 import Vue from 'vue'
 import App from './App.vue'
 import router from "./router"
 import store from "./store"
+import 'lib-flexible'
 // 工具类
 import myTool from "common/tool.js"
 

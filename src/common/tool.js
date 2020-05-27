@@ -246,7 +246,7 @@ class myTool {
       type: obj.type, //  loading success fail html
       message: obj.msg, // 文案
       mask: obj.mask || false,// 是否展示遮罩层
-      duration: obj.duration ===0?0: 50000 // 时长
+      duration: obj.duration ===0?0: 2000 // 时长
     })
   }
   clearToast () {

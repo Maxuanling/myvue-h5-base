@@ -4,7 +4,7 @@
  * @Autor: 杨兰
  * @Date: 2020-03-26 11:25:58
  * @LastEditors: 马璇玲
- * @LastEditTime: 2020-05-22 15:47:54
+ * @LastEditTime: 2020-05-27 17:39:50
  */
 // const path = require("path");
 // function resolve(dir){
@@ -23,6 +23,7 @@ module.exports = {
                 "network":"@/network",
                 "views":"@/views",
                 "utils":"@/utils",
+                "store":"@/store",
             }
         }
     },
